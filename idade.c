@@ -1,3 +1,5 @@
+// Condiçoes Aninhadas
+
 #include <stdio.h>
 #include <locale.h>
 
@@ -10,7 +12,9 @@ int main()
     ij = 24, mi = 45, ii = 60;
 
     // idade a ser testada:
-    int idade = 45;
+    int idade;
+    printf("Informe a idade a ser testada: ");
+    scanf("%d", &idade);
     printf("Para a idade de %d anos: \n", idade);
 
     // condições:
