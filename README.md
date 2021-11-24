@@ -8,4 +8,4 @@ Aprendendo lógica de programação com exercíocios simples utilizando a lingua
     arquivo.exe
 ```
 
-ou F6
+ou F6 (utilizando a extensão C/C++ e C/C++ Compile Run)
